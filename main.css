@@ -1,0 +1,23 @@
+.outer{
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid red;
+}
+.horizon .road{
+    width: 100%;
+    height: 40vh;
+    border: 1px solid red;
+
+}
+.bottom{
+    width: 100%;
+    height: 20vh;
+    border: 1px solid red;
+    background-color: sandybrown;
+}
+.horizon{
+    background-color: skyblue;
+}
+.road{
+    background-color: black;
+}
